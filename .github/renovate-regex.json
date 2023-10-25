@@ -3,7 +3,7 @@
     "renovate_datasource": "github-release-attachments",
     "renovate_depname": "FiloSottile/age",
     "renovate_versioning": "semver",
-    "sha256": "81bdfa27906288b1b0d1952202a34c8020da9b01008761ca91100c87d416227c",
-    "version": "v1.1.1"
+    "sha256": "c937585efef8fe4f1fcb6d9eb658ec44c62a43bdfbd1300bf4e0958b4c3f8fa3",
+    "version": "v1.1.0"
   }
 }
