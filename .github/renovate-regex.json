@@ -1,0 +1,9 @@
+{
+  "age_darwin_amd64": {
+    "renovate_datasource": "github-release-attachments",
+    "renovate_depname": "FiloSottile/age",
+    "renovate_versioning": "semver",
+    "sha256": "81bdfa27906288b1b0d1952202a34c8020da9b01008761ca91100c87d416227c",
+    "version": "1.1.1"
+  }
+}
