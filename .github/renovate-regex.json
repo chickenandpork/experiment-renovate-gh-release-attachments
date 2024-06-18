@@ -3,14 +3,14 @@
     "renovate_datasource": "github-release-attachments",
     "renovate_depname": "FiloSottile/age",
     "renovate_versioning": "semver",
-    "sha256": "81bdfa27906288b1b0d1952202a34c8020da9b01008761ca91100c87d416227c",
-    "version": "v1.1.1"
+    "sha256": "d1a2277615e974be710f1a2e3c5be070bfc030d91b381ed04f41cae1a5fc2efb",
+    "version": "v1.2.0"
   },
   "age_darwin_arm64": {
     "renovate_datasource": "github-release-attachments",
     "renovate_depname": "FiloSottile/age",
     "renovate_versioning": "semver",
-    "sha256": "bd2f57b0391ac0aaebfa742c4320fec58596cd3dc35180c4f9631f57b7588120",
-    "version": "v1.1.0"
+    "sha256": "f9dbc0726394f509e3d515a0bef5ffc02d8e59a818bfffc0f4acd826405af292",
+    "version": "v1.2.0"
   }
 }
